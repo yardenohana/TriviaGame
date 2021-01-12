@@ -8,5 +8,10 @@ SQLite database, WPF gui, and C++ backend used for a multi-threaded trivia game 
 4. Run the backend first.
 5. Play!
 
+## Team
+Dana Surasky, software developer
+Yarden Ohana, software developer
+
 ## Testing
 client_trivia.py file is made for personal testing, but I have decided to share it with you.
+
