@@ -7,3 +7,6 @@ SQLite database, WPF gui, and C++ backend used for a multi-threaded trivia game 
 3. Run both .sln files of the /GUI folder and the main one, in Visual Studio.
 4. Run the backend first.
 5. Play!
+
+## Testing
+client_trivia.py file is made for personal testing, but I have decided to share it with you.
